@@ -278,7 +278,4 @@ Merci de lire `CONTRIBUTING.md` et `CODE_OF_CONDUCT.md` (à venir). Pour les fai
 
 ## 14. Contact
 
-**Uk'iva DAPAM**
-**DUKSTON**
-_ukiva.dapam@dukston.com_
-_https://www.linkedin.com/in/ukivadapam-cybersecurity/_
+**Uk'iva DAPAM** | _https://www.linkedin.com/in/ukivadapam-cybersecurity/_
